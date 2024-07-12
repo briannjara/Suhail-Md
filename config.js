@@ -76,15 +76,15 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "Njaramba-MD",
-  ownername:process.env.OWNER_NAME|| "Njaramba",
+  botname : process.env.BOT_NAME  || "SUHAIL-MD",
+  ownername:process.env.OWNER_NAME|| "Suhail",
 
 
   errorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "",
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "sk-proj-t5brXljXIGAw4wliOyeNT3BlbkFJkVjCy96dVgZPGTJ6nyDq",
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "sk-proj-ToDz2MmrR0fpywUlWdEMT3BlbkFJkfiRxT5FKH9uABArGbT5",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "",
   antilink_values:process.env.ANTILINK_VALUES|| "all",
